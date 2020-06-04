@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TermsFragment">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="12dp"
+        android:text="Bacon ipsum dolor amet ball tip fatback shoulder burgdoggen cow beef pastrami meatloaf frankfurter landjaeger doner beef ribs pancetta tri-tip boudin. Jerky pork chop spare ribs pancetta ham hock drumstick, cupim boudin sirloin jowl tri-tip. Chicken pig ground round tail kevin jerky. Cupim frankfurter tenderloin flank t-bone, tri-tip burgdoggen bresaola swine corned beef spare ribs tail shank landjaeger bacon. Brisket sirloin ball tip, frankfurter turkey capicola cupim beef.
+
+Cow doner tri-tip landjaeger pork chop biltong pork belly rump sausage. Prosciutto landjaeger fatback sirloin strip steak pastrami shoulder meatloaf sausage salami ham hock t-bone jerky. Prosciutto capicola short ribs, cow kevin turducken strip steak pork belly pastrami alcatra t-bone kielbasa. Tail pastrami doner bresaola alcatra turkey jerky t-bone swine. Doner bacon frankfurter biltong venison, cow t-bone corned beef ground round. Bacon pastrami drumstick, venison tongue cow turkey short loin salami jerky ham hock chuck.
+
+Biltong chicken spare ribs chislic ball tip, cow kevin meatloaf short loin turducken. Corned beef bresaola short loin capicola. Pork loin sirloin boudin, pork jerky tail bresaola andouille drumstick. Leberkas boudin tenderloin picanha cupim, short ribs ball tip pancetta t-bone rump turkey.
+
+Beef ribs tri-tip andouille pork loin brisket, frankfurter ball tip. Pork chop filet mignon meatball, shank jerky pig turkey beef ribs drumstick doner sirloin boudin frankfurter t-bone. Sirloin venison cupim tenderloin pork loin cow jerky turkey corned beef tri-tip prosciutto t-bone. Bacon rump tail ribeye shank. Ham tail venison doner strip steak, ham hock beef ribs turkey buffalo bacon. Pork chop bacon shankle pancetta corned beef landjaeger prosciutto biltong.
+
+Ham ribeye bresaola ball tip burgdoggen buffalo tri-tip bacon. Ground round spare ribs pig picanha leberkas. Turkey pastrami tongue alcatra. Bacon pig prosciutto porchetta shankle ball tip. Ribeye t-bone bresaola picanha, short ribs kielbasa chislic meatloaf meatball ham hock. Pastrami ground round hamburger meatball short ribs filet mignon shankle tenderloin chuck. Capicola ham hock pork chop turkey, ground round andouille chislic.
+
+Doner biltong spare ribs burgdoggen. Bacon picanha chuck, ribeye buffalo bresaola pastrami doner landjaeger pork chop rump turducken pig cow jerky. Bacon kevin doner, chuck turducken kielbasa beef. Pig brisket buffalo beef hamburger short loin. Ribeye pork jerky, tongue salami ham beef ribs ball tip frankfurter short ribs capicola. Pig pork loin ham hock ball tip, drumstick leberkas tenderloin picanha spare ribs ham capicola pork chop chicken pork belly strip steak. Pig bresaola hamburger bacon buffalo pork beef meatball frankfurter short ribs cupim tongue.
+
+Strip steak cupim prosciutto shoulder. Ground round biltong burgdoggen sirloin, kevin ribeye meatloaf drumstick pork belly capicola boudin corned beef turkey ham hock short loin. Beef pancetta turducken chislic corned beef ball tip, shank prosciutto drumstick tail. Turducken jerky pork chop bacon leberkas boudin tongue ham hock flank pork picanha filet mignon prosciutto." />
+
+</ScrollView>
